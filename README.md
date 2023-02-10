@@ -1,6 +1,6 @@
 ## MapReduce
 
-We need to create a gradle project and then implemented the logic in the WordCount.java which is our mainClassName. Then, we need to follow a few steps to make sure the build.gradle is configured correctly and a few more touch points. 
+We need to create a gradle project and then implement the logic in the WordCount.java which is our mainClassName. Then, we need to follow a few steps to make sure the build.gradle is configured correctly and a few more touch points. 
 
 Below are the required steps:
 
