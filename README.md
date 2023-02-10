@@ -1,6 +1,8 @@
 ## MapReduce
 
-Steps:
+We need to create a gradle project and then implemented the logic in the WordCount.java which is our mainClassName. Then, we need to follow a few steps to make sure the build.gradle is configured correctly and a few more touch points. 
+
+Below are the required steps:
 
 1. Add artifacts to the Project Structure. In IntelliJ, File->Project Structure->Artifacts->Click on the + icon. 
 2. Make sure the build.gradle has all the important commands such as all the dependencies, and jar configuration includes dependencies as well. 
